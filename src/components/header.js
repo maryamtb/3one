@@ -4,10 +4,10 @@ const Header = () => {
   return (
     <header>
       <div className='title'>
-        <span>REACT THREE FIBER</span>
+        <span>TWENTY TWENTY ONE</span>
       </div>
       <div className='desc'>
-        <span>Click, drag, scroll.</span>
+        <span>:)</span>
       </div>
     </header>
   );
